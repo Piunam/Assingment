@@ -1,0 +1,2 @@
+# Assingment
+trading bot ig
